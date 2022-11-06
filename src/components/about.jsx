@@ -18,6 +18,7 @@ const About = () => {
           {/* Cards */}
           <AboutCard
             icon={<SiHiveBlockchain size={40} />}
+            
             header="Reliable tamper-proof network"
             text="Use decentralization, trusted nodes, premium data and cryptographic
             proofs to connect highly accurate and available data/APIs to any smart
