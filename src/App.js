@@ -1,10 +1,20 @@
-import Todo from ".components/todo";
+import React from "react";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import About from "./components/about"
+import Developer from "./components/Developer"
+import Subscribe from "./components/Subscribe"
+import Footer from "./components/Footer"
 
 function App() {
   return (
     <div className="App">
-     <div>Hello World!</div>
-     <Todo/>
+      <Navbar />
+      <Hero />
+      <About/>
+      <Developer/>
+      <Subscribe/>
+      <Footer/>
     </div>
   );
 }
