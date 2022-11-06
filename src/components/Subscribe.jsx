@@ -2,7 +2,7 @@ import React from "react";
 
 const Subscribe = () => {
   return (
-    <div className="w-full bg-black">
+    <div className="w-full bg-black flex item-center justify-center">
       <div className="px-4 py-16 max-w-[1240px] bg-black text-white text-center ">
         <h1>Join Our DeFi Community</h1>
         <div className="py-4">

@@ -12,7 +12,7 @@ const Hero = () => {
         muted
       />
       <div className="text-center text-white w-full h-[90vh] flex flex-col justify-center items-center ">
-        <h1 className="text-3xl">
+        <h1 className="text-5xl">
           Decentralized <br /> <span className="text-[#0058ff]">Trading</span>{" "}
           Protocol
         </h1>
